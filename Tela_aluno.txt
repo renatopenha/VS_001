@@ -1,6 +1,8 @@
 Uninove
 
-Versao: 1
+Versao: 2
 
 Nome:
 RA:
+Data Nascimento:
+CPF:
